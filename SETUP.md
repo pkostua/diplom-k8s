@@ -37,12 +37,11 @@ kubectl get ingress -n monitoring
 
 После успешного развертывания сервисы будут доступны по следующим URL:
 
-- **Grafana**: `http://grafana.pkdp.ru/grafana`
+- **Grafana**: `http://grafana.pkdp.ru`
   - Логин: `admin`
   - Пароль: `MSPrd123!`
 
   
-
 ## Настройка
 
 ### Изменение пароля Grafana

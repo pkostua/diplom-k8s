@@ -73,7 +73,6 @@ chmod +x uninstall-nginx-ingress.sh
 - `README.md` - Основная документация
 - `SETUP.md` - Подробные инструкции по настройке
 - `NGINX-INGRESS-SETUP.md` - Документация по NGINX Ingress Controller
-- `FILES.md` - Список всех файлов конфигурации
 - `SCRIPTS.md` - Этот файл со списком скриптов
 
 ## Проверка работоспособности

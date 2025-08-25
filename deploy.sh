@@ -49,6 +49,9 @@ kubectl apply -f 19-grafana-ingress.yaml
 kubectl apply -f 20-prometheus-ingress.yaml
 kubectl apply -f 21-alertmanager-ingress.yaml
 
+echo "Configuring test-app..."
+kubectl apply -f test-app.yaml
+
 echo "Deployment completed!"
 echo ""
 echo "Waiting for pods to be ready..."
